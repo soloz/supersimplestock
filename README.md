@@ -29,14 +29,11 @@ Unit tests are executed during application build time.
 ## Running Super Simple Stocks 
 Following successful build, the application can be executed with the following command line:
 
-
-### Example Inputs
 java -jar target/supersimplestocks-1.0-SNAPSHOT-jar-with-dependencies.jar
 
 The below presents a list of available menu options displayed by executing above JAR:
 
 ####Permitted Operations
-====================================================================================================
 1. Compute dividend yield
 2. Compute PERatio
 3. Trade
