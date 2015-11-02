@@ -16,9 +16,9 @@ Maven version: Apache Maven 3.2.5
 
 ## Building Super Simple Stocks
 The application can be built using the following steps:
-1.) Clone this repository
-2.) Change to project directory
-3.) Execute "mvn clean package" in directory. This generates the jar file which contains dependencies. This is stored in ./target/ folder.
+1. Clone this repository
+2. Change to project directory
+3. Execute "mvn clean package" in directory. This generates the jar file which contains dependencies. This is stored in ./target/ folder.
 
 Please see examples below for execution.
 
@@ -33,9 +33,9 @@ Following successful build, the application can be executed with the following c
 ### Example Inputs
 java -jar target/supersimplestocks-1.0-SNAPSHOT-jar-with-dependencies.jar
 
-The above presents a list of available menu options:
+The below presents a list of available menu options displayed by executing above JAR:
 
-Permitted Operations
+####Permitted Operations
 ====================================================================================================
 1. Compute dividend yield
 2. Compute PERatio
